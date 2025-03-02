@@ -129,8 +129,8 @@ def check_wordpress_logins(file_path, max_threads, separator_choice):
 # Menu for tool usage
 print(f'{red}========================================== {reset}')
 print(f'{red}====                                  ==== {reset}')
-print(f'{red}==== WordPress Checker By Z-BL4CK-H4T ==== {reset}')
-print(f'{red}====       https://t.me/ZBLACX        ==== {reset}')
+print(f'{red}==== WordPress Checker By XLAMPER     ==== {reset}')
+print(f'{red}====       https://t.me/Xlamper2      ==== {reset}')
 print(f'{red}====                                  ==== {reset}')
 print(f'{red}========================================== {reset}')
 file_path = input(f'{fy}Enter the txt file path: ')
